@@ -1,4 +1,4 @@
-## Hi there 👋
+## It's my first coding
 
 <!--
 **Akshay-kushwaha-1/Akshay-kushwaha-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
